@@ -5,6 +5,8 @@ src/
 *.pdf 
 *.npy
 .DS_Store
+unitary_noise_circuits
+unitary_noise_ptms
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
